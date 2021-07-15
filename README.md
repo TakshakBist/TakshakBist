@@ -14,7 +14,7 @@
   <div>
     - 📫 How to reach me ?</div>
   <div>
-    -  You can use facebook to reach me. 
+    =>You can use facebook to reach me. 
     <a href="https://www.facebook.com/bist.takshak" > click here </a>
     
   </div>

@@ -9,7 +9,7 @@
     - 👀 I’m interested in <b>Game Development</b> and <b>Competitive Programming</b>
   </div>
   <div>
-    - 🌱 I’m currently learning GUI Development for C++ using wxWidget
+    - 🌱 I’m currently learning GLFW openGL
   </div>
   <div>
     - 📫 How to reach me ?</div>
